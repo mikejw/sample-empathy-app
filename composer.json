@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikejw/elib-blog": "dev-bootstrap4"
+    },
+    "minimum-stability": "dev"
+}

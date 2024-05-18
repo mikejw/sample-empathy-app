@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public_html/.htaccess
+/public_html/vendor
+/public_html/js/common.js
+/tpl
+/config.yml
+/.idea
+/logs
+/profiling
+/composer.phar
+
+*~
